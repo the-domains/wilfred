@@ -1,0 +1,28 @@
+name: Wilfred
+favicon: null
+layout_spectrum: 0.5183718514163047
+typography_spectrum: 0.2574423048645258
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6240859003737569
+  lightness: 0.31386552937328815
+  saturation: 0.03201511758379638
+  rhythmicContrast: 0.27965473919175565
+purpose: []
